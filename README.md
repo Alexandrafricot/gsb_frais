@@ -8,6 +8,7 @@ Installation :
 Pour lancer l’application, se rendre ensuite sur l’adresse url : http://localhost/gsb_frais/index.php
 
 Voici les identifiants :
+
 Login Comptable : adminc
 Mdp Compatble : admin
 
